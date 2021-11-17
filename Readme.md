@@ -1,2 +1,2 @@
-This is my work from this video
-https://www.youtube.com/watch?v=DihOP19LQdg&ab_channel=BeaufortTek
+# PostgreSQL Tutorial
+This is my code from a few Postgres tutorials on YouTube
