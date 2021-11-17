@@ -1,0 +1,4 @@
+id,first_name,last_name,email,gender,date_of_birth,country_of_birth,car_id,id,make,model,price
+2,Page,Tipler,ptipler1@google.it,Female,2021-09-18,Russia,1,1,Buick,LeSabre,50279.02
+1,Eolande,Duferie,"",Male,2021-11-04,France,2,2,Mercedes-Benz,W201,94018.37
+3,Fania,Yurkevich,"",Female,2021-04-30,Moldova,,,,,
