@@ -4,5 +4,7 @@ const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'students',
-    password: ''
+    password: process.env.POSTGRES_PW
 });
+
+module.exports = pool;
