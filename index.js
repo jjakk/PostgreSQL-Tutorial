@@ -1,7 +1,7 @@
 const express = require('express');
 const studentRoutes = require('./src/student/routes');
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 8000;
 
 app.use(express.json());
 
